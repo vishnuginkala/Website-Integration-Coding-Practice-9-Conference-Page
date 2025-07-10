@@ -5,10 +5,16 @@ Conference Page
 In this assignment, let's build a Conference Page by applying the concepts we learned till now. You can use the Bootstrap concepts and CCBP UI Kit as well.
 
 Refer to the below images.
+
 Conference Home Page:
 
+![image](https://github.com/user-attachments/assets/b8af03f0-7cba-4414-9e41-d50faf3d9bd0)
+
 conference-page-to-build
+
 Conference Details Page:
+
+![image](https://github.com/user-attachments/assets/691de490-95a4-4517-b45b-035aa39ef7e8)
 
 conference-page-to-build
 Note
