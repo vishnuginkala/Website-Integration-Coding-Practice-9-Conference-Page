@@ -21,12 +21,17 @@ The CCBP UI kit works only if the value of the HTML id attribute of the containe
 Sections must be parallel and not nested within each other.
 
 HTML
+<div id="sectionHomePage">...</div>
+<div id="sectionConferencePage">...</div>
+
 Avoid assigning Bootstrap flex properties directly to a section container.
 
 Example
 Wrong usage:
- 
 HTML
+<div id="sectionHomepage" class="d-flex">
+  ...
+</div>
 Resources
 Use the URLs given below.
 
@@ -36,6 +41,7 @@ Youtube Video URL: https://www.youtube.com/embed/W_2hCKnzWj0
 
 CSS Colors used
 Text color Hex Code values:
+![image](https://github.com/user-attachments/assets/596096d5-e758-4dd3-ac39-76ae49f3bc9a)
 
 
 CSS Font families used:
